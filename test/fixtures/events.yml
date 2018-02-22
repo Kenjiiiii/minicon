@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  start_at: 
+  ticket_price: 1
+  ticket_quantity: 1
+  event_category_id: 1
+
+two:
+  title: MyString
+  start_at: 
+  ticket_price: 1
+  ticket_quantity: 1
+  event_category_id: 1
